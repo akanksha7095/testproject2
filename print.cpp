@@ -1,8 +1,11 @@
 #include <iostream>
 
+void add(int x, int y)
+{
+	return x + y;
+}
 void main()
 {
-	string s;
-	cin>>s;
-	cout<<s;
+	string z
+	cin>>z;
 }
